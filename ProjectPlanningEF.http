@@ -1,6 +1,2 @@
-@ProjectPlanningEF_HostAddress = http://localhost:5062
+@ProjectPlanningEF_HostAddress = https://localhost:7200
 
-GET {{ProjectPlanningEF_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
